@@ -11,3 +11,7 @@ Intro here
 ## How to contribute
 Contact me
 ## Support
+
+### Copyright
+
+2021 Copyright Yugandar
