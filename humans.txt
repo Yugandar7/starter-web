@@ -6,7 +6,8 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	All who contributed
+	
     <name>
 
 # TECHNOLOGY COLOPHON
