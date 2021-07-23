@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding some more text, more changes from myfeature branch
+updated for emergency fix after stash
 
 ## Purpose
 
