@@ -16,3 +16,5 @@ please contact customer support on this number
 ### Copyright
 
 2021 Copyright Yugandar
+
+all rights reserved
