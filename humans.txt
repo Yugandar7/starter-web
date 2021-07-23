@@ -15,3 +15,4 @@ please review the course
 
     HTML5, CSS3
     jQuery, Modernizr
+	GIT,SQL
